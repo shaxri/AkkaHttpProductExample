@@ -1,0 +1,7 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\projects\AkkaHttpProductExample\src\main\resources\application.conf,C:\projects\AkkaHttpProductExample\target\scala-2.13\classes\application.conf)
+[debug] 	(C:\projects\AkkaHttpProductExample\src\main\resources\html\login.html,C:\projects\AkkaHttpProductExample\target\scala-2.13\classes\html\login.html)
+[debug] 	(C:\projects\AkkaHttpProductExample\src\main\resources\scripts\init.sql,C:\projects\AkkaHttpProductExample\target\scala-2.13\classes\scripts\init.sql)
+[debug] 	(C:\projects\AkkaHttpProductExample\src\main\resources\scripts\products.sql,C:\projects\AkkaHttpProductExample\target\scala-2.13\classes\scripts\products.sql)
+[debug] 	(C:\projects\AkkaHttpProductExample\src\main\resources\scripts\users,C:\projects\AkkaHttpProductExample\target\scala-2.13\classes\scripts\users)
+[debug] 	(C:\projects\AkkaHttpProductExample\src\main\resources\scripts\user_products.sql,C:\projects\AkkaHttpProductExample\target\scala-2.13\classes\scripts\user_products.sql)

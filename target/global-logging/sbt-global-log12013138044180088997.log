@@ -1,0 +1,16 @@
+[debug] > Exec(all {file:/C:/projects/AkkaHttpProductExample/}akkahttpproductexample/products {file:/C:/projects/AkkaHttpProductExample/}akkahttpproductexample/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 3 Scala sources to C:\projects\AkkaHttpProductExample\target\scala-2.13\classes ...
+[warn] there was one deprecation warning (since 2.13.0); re-run with -deprecation for details
+[warn] one warning found
+[info] done compiling
+[info] compiling 3 Scala sources to C:\projects\AkkaHttpProductExample\target\scala-2.13\classes ...
+[warn] there was one deprecation warning (since 2.13.0); re-run with -deprecation for details
+[warn] one warning found
+[info] done compiling
+[debug] Forcing garbage collection...
+[success] Total time: 3 s, completed 10-noy, 2023, 20:01:52
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

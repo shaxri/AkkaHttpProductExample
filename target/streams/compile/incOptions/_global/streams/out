@@ -1,0 +1,43 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\projects\AkkaHttpProductExample\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] 	JsonFormats.class
+[debug] 	ProductApplication$delayedInit$body.class
+[debug] 	ProductsTable.class
+[debug] 	ProductApplication.class
+[debug] 	ProductApplication$.class
+[debug] 	Product$.class
+[debug] 	Product.class
+[debug] We backup class files:
+[debug] 	JsonFormats.class
+[debug] 	ProductApplication$delayedInit$body.class
+[debug] 	ProductsTable.class
+[debug] 	ProductApplication.class
+[debug] 	ProductApplication$.class
+[debug] 	Product$.class
+[debug] 	Product.class
+[debug] Registering generated classes:
+[debug] 	JsonFormats.class
+[debug] 	ProductApplication$delayedInit$body.class
+[debug] 	ProductsTable.class
+[debug] 	ProductApplication.class
+[debug] 	ProductApplication$.class
+[debug] 	Product$.class
+[debug] 	Product.class
+[debug] About to delete class files:
+[debug] 	UserProductsTable.class
+[debug] 	JsonFormats.class
+[debug] 	ProductApplication$delayedInit$body.class
+[debug] 	ProductService.class
+[debug] 	ProductApplication.class
+[debug] 	ProductApplication$.class
+[debug] We backup class files:
+[debug] 	UserProductsTable.class
+[debug] 	ProductService.class
+[debug] Registering generated classes:
+[debug] 	UserProductsTable.class
+[debug] 	JsonFormats.class
+[debug] 	ProductApplication$delayedInit$body.class
+[debug] 	ProductService.class
+[debug] 	ProductApplication.class
+[debug] 	ProductApplication$.class
+[debug] Removing the temporary directory used for backing up class files: C:\projects\AkkaHttpProductExample\target\scala-2.13\classes.bak
